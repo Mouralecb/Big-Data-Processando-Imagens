@@ -7,4 +7,4 @@ Todos as imagens são de arquivos pessoais e estão disponíveis no link: "https
 
 Segue o projeto com a aplicação do modelo: "(https://colab.research.google.com/drive/1sG7sv3U5e8-jrOyUsrbrps5kKIxpuhtv?usp=sharing)https://colab.research.google.com/drive/1sG7sv3U5e8-jrOyUsrbrps5kKIxpuhtv?usp=sharing"
 
-
+*OBS: O projeto está na fase de teste e melhorias. 
